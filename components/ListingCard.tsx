@@ -15,7 +15,7 @@ export default function ListingCard({ listing }: ListingCardProps) {
         : 'bg-blue-100 text-blue-700';
 
     return (
-        <Link href={listing.url || '#'} target="_blank" rel="noopener noreferrer">
+        <div >
             <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer h-full">
                 <div className="relative h-48 w-full">
                     <Image
@@ -76,6 +76,6 @@ export default function ListingCard({ listing }: ListingCardProps) {
                     )}
                 </div>
             </div>
-        </Link>
+        </div>
     );
 }

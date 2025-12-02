@@ -83,7 +83,7 @@ export default function Home() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
                   </svg>
                 </div>
-                <h4 className="font-semibold text-gray-900 mb-2">City Filtering</h4>
+                <h4 className="font-semibold text-gray-900 mb-2">Country Filtering</h4>
                 <p className="text-sm text-gray-600">Filter results by London, Paris, or New York</p>
               </div>
               <div>

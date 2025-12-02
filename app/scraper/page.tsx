@@ -217,7 +217,7 @@ function ScraperContent() {
 
                             <div className="mb-4">
                                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                                    Select City
+                                    Select Country
                                 </label>
                                 <select
                                     value={city}
@@ -279,7 +279,7 @@ function ScraperContent() {
                                     Ready to Scrape
                                 </h3>
                                 <p className="text-gray-600">
-                                    Select a city and click "Start Scrape" to begin
+                                    Select a Country and click "Start Scrape" to begin
                                 </p>
                             </div>
                         )}
