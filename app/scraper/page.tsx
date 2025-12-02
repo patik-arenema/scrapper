@@ -3,7 +3,7 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { Listing, Platform, City, ScrapeHistory } from '@/types/types';
-import { saveScrapeHistory } from '@/lib/storage';
+import { saveScrapeHistory, saveListings } from '@/lib/storage';
 import ListingCard from '@/components/ListingCard';
 import LoadingSpinner from '@/components/LoadingSpinner';
 import ScrapeHistoryComponent from '@/components/ScrapeHistory';
@@ -142,6 +142,9 @@ function ScraperContent() {
             setListings(results);
             setHasScraped(true);
             setCurrentPage(1); // Reset to first page on new scrape
+
+            // Save listings to localStorage
+            saveListings(results);
 
             // Save to history
             const history: ScrapeHistory = {
