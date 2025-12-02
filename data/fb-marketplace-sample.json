@@ -1,0 +1,212 @@
+[
+    {
+        "id": "fb-london-1",
+        "title": "Vintage Leather Sofa - Excellent Condition",
+        "price": 350,
+        "images": [
+            "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800",
+            "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800"
+        ],
+        "location": "London, UK",
+        "description": "Beautiful vintage brown leather sofa in excellent condition. 3-seater, very comfortable. Must collect. Smoke-free home.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Furniture"
+    },
+    {
+        "id": "fb-london-2",
+        "title": "iPhone 13 Pro 256GB - Unlocked",
+        "price": 650,
+        "images": [
+            "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=800",
+            "https://images.unsplash.com/photo-1611472173362-3f53dbd65d80?w=800"
+        ],
+        "location": "London, UK",
+        "description": "iPhone 13 Pro in Sierra Blue, 256GB storage. Unlocked, works with any carrier. Comes with original box and charger. Minor scratches on back.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Electronics"
+    },
+    {
+        "id": "fb-paris-1",
+        "title": "Mountain Bike - Trek X-Caliber",
+        "price": 420,
+        "images": [
+            "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?w=800",
+            "https://images.unsplash.com/photo-1571333250630-f0230c320b6d?w=800"
+        ],
+        "location": "Paris, France",
+        "description": "Trek X-Caliber mountain bike, 29-inch wheels, 21-speed. Well maintained, new tires recently installed. Great for trails and city riding.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "id": "fb-paris-2",
+        "title": "Dining Table Set with 6 Chairs",
+        "price": 280,
+        "images": [
+            "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800",
+            "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=800"
+        ],
+        "location": "Paris, France",
+        "description": "Solid wood dining table with 6 matching chairs. Seats 6-8 people comfortably. Some minor wear but structurally perfect. Buyer must collect.",
+        "platform": "marketplace",
+        "condition": "Used - Fair",
+        "category": "Furniture"
+    },
+    {
+        "id": "fb-newyork-1",
+        "title": "PlayStation 5 with 2 Controllers",
+        "price": 480,
+        "images": [
+            "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800",
+            "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?w=800"
+        ],
+        "location": "New York, USA",
+        "description": "PS5 console in perfect working condition. Includes 2 DualSense controllers, all cables, and original packaging. 3 games included.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Electronics"
+    },
+    {
+        "id": "fb-newyork-2",
+        "title": "Designer Handbag - Michael Kors",
+        "price": 180,
+        "images": [
+            "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800",
+            "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800"
+        ],
+        "location": "New York, USA",
+        "description": "Authentic Michael Kors handbag in tan leather. Gently used, no stains or tears. Comes with dust bag and authenticity card.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Fashion"
+    },
+    {
+        "id": "fb-london-3",
+        "title": "Coffee Machine - Nespresso Vertuo",
+        "price": 95,
+        "images": [
+            "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800",
+            "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800"
+        ],
+        "location": "London, UK",
+        "description": "Nespresso Vertuo coffee machine in black. Works perfectly, just upgraded to a newer model. Includes 20 coffee pods.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Home & Garden"
+    },
+    {
+        "id": "fb-paris-3",
+        "title": "Gaming Laptop - ASUS ROG",
+        "price": 890,
+        "images": [
+            "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+            "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800"
+        ],
+        "location": "Paris, France",
+        "description": "ASUS ROG gaming laptop, RTX 3060, 16GB RAM, 512GB SSD. Excellent performance for gaming and work. Barely used, like new condition.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Electronics"
+    },
+    {
+        "id": "fb-newyork-3",
+        "title": "Bookshelf - Solid Oak",
+        "price": 120,
+        "images": [
+            "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800",
+            "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=800"
+        ],
+        "location": "New York, USA",
+        "description": "Large solid oak bookshelf with 5 shelves. Sturdy construction, can hold heavy books. Dimensions: 6ft tall x 4ft wide. Must collect.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Furniture"
+    },
+    {
+        "id": "fb-london-4",
+        "title": "Electric Scooter - Xiaomi Mi",
+        "price": 220,
+        "images": [
+            "https://images.unsplash.com/photo-1598662957477-f0712f48ead6?w=800",
+            "https://images.unsplash.com/photo-1600093776061-7963a0f3f0a1?w=800"
+        ],
+        "location": "London, UK",
+        "description": "Xiaomi Mi electric scooter, 25km range, foldable design. Perfect for commuting. Battery still holds full charge. Comes with charger and lock.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "id": "fb-paris-4",
+        "title": "Baby Stroller - Bugaboo",
+        "price": 310,
+        "images": [
+            "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+            "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800"
+        ],
+        "location": "Paris, France",
+        "description": "Bugaboo Cameleon stroller in excellent condition. All-terrain wheels, reversible seat, includes rain cover and cup holder. Smoke-free home.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Baby & Kids"
+    },
+    {
+        "id": "fb-newyork-4",
+        "title": "Acoustic Guitar - Yamaha FG800",
+        "price": 160,
+        "images": [
+            "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
+            "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800"
+        ],
+        "location": "New York, USA",
+        "description": "Yamaha FG800 acoustic guitar in great condition. Perfect for beginners or intermediate players. Includes soft case and extra strings.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Musical Instruments"
+    },
+    {
+        "id": "fb-london-5",
+        "title": "Office Desk - L-Shaped",
+        "price": 140,
+        "images": [
+            "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=800",
+            "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=800"
+        ],
+        "location": "London, UK",
+        "description": "Large L-shaped office desk in dark wood finish. Plenty of workspace, cable management holes. Great for home office setup. Disassembles for transport.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Furniture"
+    },
+    {
+        "id": "fb-paris-5",
+        "title": "Air Fryer - Philips XXL",
+        "price": 85,
+        "images": [
+            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800",
+            "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+        ],
+        "location": "Paris, France",
+        "description": "Philips XXL air fryer, 7.3L capacity. Perfect for families. Barely used, works like new. Includes recipe book and all accessories.",
+        "platform": "marketplace",
+        "condition": "Used - Excellent",
+        "category": "Home & Garden"
+    },
+    {
+        "id": "fb-newyork-5",
+        "title": "Road Bike - Specialized Allez",
+        "price": 550,
+        "images": [
+            "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800",
+            "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?w=800"
+        ],
+        "location": "New York, USA",
+        "description": "Specialized Allez road bike, carbon fork, Shimano 105 groupset. Well maintained, new chain and cassette. Size 56cm. Serious cyclists only.",
+        "platform": "marketplace",
+        "condition": "Used - Good",
+        "category": "Sports & Outdoors"
+    }
+]
