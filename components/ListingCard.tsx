@@ -50,7 +50,7 @@ export default function ListingCard({ listing }: ListingCardProps) {
                     <div className="flex items-center justify-between">
                         <span className="text-2xl font-bold text-gray-900">
                             ${Number(listing.price)}
-                            {listing.platform === 'airbnb' && <span className="text-sm font-normal text-gray-600">/night</span>}
+                            {listing.platform === 'airbnb' && <span className="text-sm font-normal text-gray-600">/month</span>}
                         </span>
 
                         {listing.condition && (
